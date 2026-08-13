@@ -1,0 +1,27 @@
+{
+  "selected_best_model": "Logistic Regression",
+  "selection_rationale": "Write your one-line rationale here, matching what you wrote above.",
+  "metrics_summary": {
+    "Logistic Regression": {
+      "Accuracy": 0.7339,
+      "Precision": 0.1325,
+      "Recall": 0.8,
+      "F1-Score": 0.2273,
+      "ROC-AUC": 0.839
+    },
+    "Random Forest": {
+      "Accuracy": 0.9325,
+      "Precision": 0.1724,
+      "Recall": 0.1,
+      "F1-Score": 0.1266,
+      "ROC-AUC": 0.7629
+    },
+    "XGBoost": {
+      "Accuracy": 0.9256,
+      "Precision": 0.175,
+      "Recall": 0.14,
+      "F1-Score": 0.1556,
+      "ROC-AUC": 0.7745
+    }
+  }
+}
